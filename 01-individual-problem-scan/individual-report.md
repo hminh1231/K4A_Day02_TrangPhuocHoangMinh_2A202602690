@@ -37,7 +37,7 @@
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 **AI đã dùng ở Phase 1 (nếu có):**
-- Prompt đã hỏi: Đưa bảng scan 10 dòng (lăng kính / problem / actor / dấu hiệu) rồi nhờ đối chiếu với rubric Phase 1: actor có đủ cụ thể không, dấu hiệu đã có số chưa, dòng nào trùng, dòng nào không phải bài AI.
+- Prompt đã hỏi: Đây là bảng scan 10 dòng (lăng kính / problem / actor / dấu hiệu) dựa trên công việc mỗi tuần và mỗi tháng của mình, đối chiếu bảng scan này với rubric Phase 1 trong file worksheet.md rồi cho mình biết các thông tin sau: actor có đủ cụ thể không, dấu hiệu đã có số chưa, dòng nào trùng, dòng nào cần tối ưu hơn, sau đó đưa lại cho mình 1 bảng đã cải thiện hơn.
 - Ý dùng được: Siết actor từ “nhân viên, quản lý” thành ERP Engineer / nhóm trưởng / HCNS; thêm số đo thời gian; tách pain “họp thứ Hai” thành pain “chuẩn bị tài liệu”; giữ #3 và #5 vì scan cần rộng, dù không phải bài AI tốt.
 - Ý bỏ vì không phải pain thật: Không biến #3 (giấy ra cổng) hay #5 (chờ approve) thành “xây agent”. Không gộp hết #1, #2, #4, #7, #10 thành một dòng “báo cáo” vì tần suất và bước nghẽn khác nhau.
 
